@@ -1,6 +1,4 @@
 import { Component } from '@angular/core';
-import {AgGridModule} from 'ag-grid-angular';
-import {HttpClient} from '@angular/common/http'
 import { ApiserviceService } from '../apiservice.service';
 
 @Component({
